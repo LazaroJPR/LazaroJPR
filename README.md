@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=lasanhaplays" alt="lasanhaplays" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=LazaroJPR" alt="LazaroJPR" /></p>
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Lazaro</h1>
@@ -11,5 +11,5 @@
 
 ## ⚡ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasanhaplays&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lasanhaplays&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazaroJPR&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazaroJPR&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
