@@ -44,8 +44,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/LazaroJPR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LazaroJPR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazaroJPR&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=LazaroJPR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LazaroJPR&theme=tokyonight" alt="Profile Details" />
 </div>
